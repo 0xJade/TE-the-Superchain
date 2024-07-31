@@ -10,11 +10,11 @@ This initiative will test a novel approach to linking a Quadratic Funding (QF) s
 
 We’re looking for community members who believe in the importance of trustworthy blockchain systems and are interested in seeing token engineering practices blossom within the Superchain. As such, we think this experiment could be of interest to Optimism's future development of retroactive funding and governance.
 
-## How to Get Involved
+## <u>How to Get Involved<u>
 
-Track our [Live Round](https://explorer.gitcoin.co/#/round/10/57) on Gitcoin: Check out and support the projects participating in our current funding round. Because of our TQF boosts for OP delegates and badgeholders, your contributions and votes can make a significant impact.
+- Track our [Live Round](https://explorer.gitcoin.co/#/round/10/57) on Gitcoin: Check out and support the projects participating in our current funding round. Because of our TQF boosts for OP delegates and badgeholders, your contributions and votes can make a significant impact.
 
-Join our Community: For more information and to stay connected, visit our [Join Page](https://tecommons.notion.site/Token-Engineering-Commons-29abab5d183e4998900f2dca59ee9ada). Here, you can find links to our social media accounts, forum, Medium articles, YouTube channel, and upcoming events. This central hub will keep you informed about all our activities and updates.
+- Join our Community: For more information and to stay connected, visit our [Join Page](https://tecommons.notion.site/Token-Engineering-Commons-29abab5d183e4998900f2dca59ee9ada). Here, you can find links to our social media accounts, forum, Medium articles, YouTube channel, and upcoming events. This central hub will keep you informed about all our activities and updates.
 
 
 ## The Experiment
