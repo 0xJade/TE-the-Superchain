@@ -10,7 +10,7 @@ This initiative will test a novel approach to linking a Quadratic Funding (QF) s
 
 We’re looking for community members who believe in the importance of trustworthy blockchain systems and are interested in seeing token engineering practices blossom within the Superchain. As such, we think this experiment could be of interest to Optimism's future development of retroactive funding and governance.
 
-## <u>How to Get Involved<u>
+## How to Get Involved
 
 - Track our [Live Round](https://explorer.gitcoin.co/#/round/10/57) on Gitcoin: Check out and support the projects participating in our current funding round. Because of our TQF boosts for OP delegates and badgeholders, your contributions and votes can make a significant impact.
 
@@ -19,16 +19,16 @@ We’re looking for community members who believe in the importance of trustwort
 
 ## The Experiment
 
-Duration: August through December 2024
-Funding: TEC will invest $50k between  two rounds and Gitcoin is contributing an additional  [match of $50k](https://gov.gitcoin.co/t/gg21-community-rounds-announced/19168) for the Quadratic Funding round.
+- Duration: August through December 2024
+- Funding: TEC will invest $50k between  two rounds and Gitcoin is contributing an additional  [match of $50k](https://gov.gitcoin.co/t/gg21-community-rounds-announced/19168) for the Quadratic Funding round.
 
 ### Round 1: GG21 Quadratic Funding Round
 
 We will run a Tunable Quadratic Funding (TQF) round on Gitcoin Grants 21 in August, with a few important modifications from the TEC’s previous four Gitcoin  rounds:
 
-Superchain Impact: Projects must present a plan for catalyzing token engineering adoption and impact in the Superchain.
+- Superchain Impact: Projects must present a plan for catalyzing token engineering adoption and impact in the Superchain.
 
-Superchain Voting Boosts: In addition to our current practice of using TQF to boost votes with token engineering expertise, this round will boost votes for Superchain stakeholders (badge holders, top delegates, and [“trusted users”](https://gov.optimism.io/t/retro-funding-4-impact-metrics-a-collective-experiment/8226#refining-and-implementing-feedback-5)).
+- Superchain Voting Boosts: In addition to our current practice of using TQF to boost votes with token engineering expertise, this round will boost votes for Superchain stakeholders (badge holders, top delegates, and [“trusted users”](https://gov.optimism.io/t/retro-funding-4-impact-metrics-a-collective-experiment/8226#refining-and-implementing-feedback-5)).
 
 TQF Success in Previous Round: Our previous implementation of TQF distributing $TEC in Gitcoin Grants 20 boosted Optimism-based projects. By incorporating an OP delegate signal into our funding mechanism, we observed a noticeable increase in support for projects focused on the Optimism ecosystem. This success validates our approach and reinforces our confidence in using TQF to align funding with community priorities and expertise in the Superchain. 
 
