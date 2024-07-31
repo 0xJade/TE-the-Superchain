@@ -1,4 +1,4 @@
-# Calling All OP Badgeholders and Delegates
+## Calling All OP Badgeholders and Delegates
 
 We invite you to participate in a series of experiments in the second half of 2024. Our goal is to promote token engineering within the Optimism and Superchain ecosystems. 
 
@@ -6,19 +6,19 @@ This initiative will test a novel approach to linking a Quadratic Funding (QF) s
 
 We’re looking for community members who believe in the importance of trustworthy blockchain systems and are interested in seeing token engineering practices blossom within the Superchain. As such, we think this experiment could be of interest to Optimism's future development of retroactive funding and governance.
 
-# How to Get Involved
+## How to Get Involved
 
 - Track our [Live Round](https://explorer.gitcoin.co/#/round/10/57) on Gitcoin: Check out and support the projects participating in our current funding round. Because of our TQF boosts for OP delegates and badgeholders, your contributions and votes can make a significant impact.
 
 - Join our Community: For more information and to stay connected, visit our [Join Page](https://tecommons.notion.site/Token-Engineering-Commons-29abab5d183e4998900f2dca59ee9ada). Here, you can find links to our social media accounts, forum, Medium articles, YouTube channel, and upcoming events. This central hub will keep you informed about all our activities and updates.
 
 
-# The Experiment
+## The Experiment
 
 - Duration: August through December 2024
 - Funding: TEC will invest $50k between  two rounds and Gitcoin is contributing an additional  [match of $50k](https://gov.gitcoin.co/t/gg21-community-rounds-announced/19168) for the Quadratic Funding round.
 
-## Round 1: GG21 Quadratic Funding Round
+### Round 1: GG21 Quadratic Funding Round
 
 We will run a Tunable Quadratic Funding (TQF) round on Gitcoin Grants 21 in August, with a few important modifications from the TEC’s previous four Gitcoin  rounds:
 
@@ -32,7 +32,7 @@ Below we compare the two main signal combinations: “TTP” ([TEA](https://toke
 
 As part of our ongoing commitment to the Optimism ecosystem, it's worth noting that our $TEC token is a native OP token. This aligns with our broader mission to promote token engineering within the Optimism and Superchain ecosystems, extending beyond these specific funding experiments.
 
-## Round 2: TEC Retro
+### Round 2: TEC Retro
 
 The retroactive funding round is currently slated for November and will use [Gitcoin’s EasyRetro on Allo Protocol](https://easyretropgf.xyz/). It features: 
 
@@ -42,11 +42,11 @@ The retroactive funding round is currently slated for November and will use [Git
 Late October: Progress on grantee-specified impact goals.
 - Two Badgeholder Groups: Awards will be decided by a panel of badgeholders with a mix of experience in token engineering and Superchain governance and stewardship. 
 
-# Educating the Superchain
+## Educating the Superchain
 
 Throughout this project, TEC will organize events and communications to explain token engineering and highlight grantees' work to Superchain governors, stewards, builders, and other key stakeholders. 
 
-# Join the Token Engineering Movement
+## Join the Token Engineering Movement
 
 We're looking for Superchain community members with an interest in token engineering and the underlying premise of building trustworthy blockchain systems. Feel free to drop a reply to this post if you are interested in working with the TEC towards this goal.
 
