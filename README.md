@@ -12,6 +12,7 @@ We’re looking for community members who believe in the importance of trustwort
 
 - Join our Community: For more information and to stay connected, visit our [Join Page](https://tecommons.notion.site/Token-Engineering-Commons-29abab5d183e4998900f2dca59ee9ada). Here, you can find links to our social media accounts, forum, Medium articles, YouTube channel, and upcoming events. This central hub will keep you informed about all our activities and updates.
 
+**![|624x99](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFZhIaMucypYtMck0xAZFUU4DGOssw6pZG2Dsfdk2ZTugd1FzAMLseJhlrdxBo7J9qEs4m6_YXjUWuF91qWgHvTFc2o6RpT6sNbD7hV8zxQ07p7FaT9QzH9TIHso2rNM5FGoFm80A3Ew4o-mB1r7HwwZRO?key=zfoUQB0B8zY6PIgsXUQyjg)**
 
 ## The Experiment
 
@@ -28,19 +29,18 @@ We will run a Tunable Quadratic Funding (TQF) round on Gitcoin Grants 21 in Augu
 
 TQF Success in Previous Round: Our previous implementation of TQF distributing $TEC in Gitcoin Grants 20 boosted Optimism-based projects. By incorporating an OP delegate signal into our funding mechanism, we observed a noticeable increase in support for projects focused on the Optimism ecosystem. This success validates our approach and reinforces our confidence in using TQF to align funding with community priorities and expertise in the Superchain. 
 
-Below we compare the two main signal combinations: “TTP” ([TEA](https://tokenengineering.net/) NFT credentials, [$TEC](https://optimistic.etherscan.io/address/0x8fc7c1109c08904160d6ae36482b79814d45eb78) holdings, and [Praise](https://givepraise.xyz/) points) and “TTPO” (which adds the [Optimism Delegate](https://dune.com/optimismfnd/optimism-op-token-house) signal to “TTP”).
-
 As part of our ongoing commitment to the Optimism ecosystem, it's worth noting that our $TEC token is a native OP token. This aligns with our broader mission to promote token engineering within the Optimism and Superchain ecosystems, extending beyond these specific funding experiments.
 
 ### Round 2: TEC Retro
 
-The retroactive funding round is currently slated for November and will use [Gitcoin’s EasyRetro on Allo Protocol](https://easyretropgf.xyz/). It features: 
+The retroactive funding round is currently slated for November and will use Gitcoin’s EasyRetro on Allo Protocol. It features: 
 
 - TQF Recipients: Only recipients of the above August TQF round will be eligible.
 - Superchain Impact: Retro awards will recognize progress against plans from Round 1 applications, broken into two milestones:
-- Early September: Completion of an impact plan using [Karma](https://www.karmahq.xyz/).
+- Early September: Completion of an impact plan using Karma.
 Late October: Progress on grantee-specified impact goals.
 - Two Badgeholder Groups: Awards will be decided by a panel of badgeholders with a mix of experience in token engineering and Superchain governance and stewardship. 
+
 
 ## Educating the Superchain
 
@@ -51,5 +51,3 @@ Throughout this project, TEC will organize events and communications to explain 
 We're looking for Superchain community members with an interest in token engineering and the underlying premise of building trustworthy blockchain systems. Feel free to drop a reply to this post if you are interested in working with the TEC towards this goal.
 
 Here’s a link to an article on [Medium](https://medium.com/token-engineering-commons/token-engineering-the-superchain-8a8acdca826b) that explains these plans in more detail.
-
-
